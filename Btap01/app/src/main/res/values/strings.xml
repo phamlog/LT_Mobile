@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BTap01</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="avatar_desc">Ảnh đại diện</string>
+
+    <!-- Các chuỗi thêm vào cho chức năng -->
+    <string name="btn_process_numbers">In số chẵn &amp; lẻ</string>
+    <string name="btn_reverse">Đảo chuỗi &amp; IN HOA</string>
+</resources>
